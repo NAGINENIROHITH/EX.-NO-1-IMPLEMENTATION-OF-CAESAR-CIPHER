@@ -1,7 +1,9 @@
 # EX. NO: 1(A) : IMPLEMENTATION OF CAESAR CIPHER
 
+
 ## AIM:
 To implement the simple substitution technique named Caesar cipher using C language.
+
 
 ## ALOGORITHM:
 
@@ -14,6 +16,7 @@ STEP-3: If the key is positive then encrypt the text by adding the key with each
 STEP-4: Else subtract the key from the plain text.
 
 STEP-5: Display the cipher text obtained above.
+
 
 ## PROGRAM:
 ```
@@ -71,6 +74,7 @@ int main() {
     return 0;
 }
 ```
+
 
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/48b9a120-ee26-4877-9910-28713e58be18)
